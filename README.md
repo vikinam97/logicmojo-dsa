@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 8/145 problems  
+**Solved:** 9/145 problems  
 **Last Updated:** May 16, 2026
 
 ## Solutions
@@ -17,3 +17,4 @@
 | 189 | Rotate Array | Medium | [Link](https://leetcode.com/problems/rotate-array/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/7-rotate-array.js?raw=true) | May 16, 2026 | 1. A cyclic swap moves one element directly to its target position, picks up the displaced element, and repeats this process in a chain until a full loop (cycle) is completed.
 2. The reversal method rotates the array by flipping the entire sequence upside down, then flipping the first $k$ elements and the remaining elements back into their correct relative order. |
 | 283 | Move Zeroes | Easy | [Link](https://leetcode.com/problems/move-zeroes/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/8-move-zeroes.js?raw=true) | May 16, 2026 | - |
+| 49 | Group Anagrams | Medium | [Link](https://leetcode.com/problems/group-anagrams/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/9-group-anagrams.js?raw=true) | May 16, 2026 | - |
