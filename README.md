@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 5/145 problems  
+**Solved:** 6/145 problems  
 **Last Updated:** May 16, 2026
 
 ## Solutions
@@ -14,3 +14,4 @@
 | 238 | Product of Array Except Self | Medium | [Link](https://leetcode.com/problems/product-of-array-except-self/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/4-product-of-array-except-self.py?raw=true) | May 16, 2026 | - |
 | 11 | Container With Most Water | Medium | [Link](https://leetcode.com/problems/container-with-most-water/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/5-container-with-most-water.py?raw=true) | May 16, 2026 | - |
 | 42 | Trapping Rain Water | Hard | [Link](https://leetcode.com/problems/trapping-rain-water/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/6-trapping-rain-water.js?raw=true) | May 16, 2026 | - |
+| 189 | Rotate Array | Medium | [Link](https://leetcode.com/problems/rotate-array/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/7-rotate-array.js?raw=true) | May 16, 2026 | 1. A cyclic swap moves one element directly to its target position, picks up the displaced element, and repeats this process in a chain until a full loop (cycle) is completed. |
