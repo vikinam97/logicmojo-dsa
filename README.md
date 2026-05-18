@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 9/145 problems  
-**Last Updated:** May 16, 2026
+**Solved:** 10/145 problems  
+**Last Updated:** May 18, 2026
 
 ## Solutions
 
@@ -22,3 +22,6 @@
 # sc: O(N * K)
 # Vignesh |
 | 268 | Missing Number | Easy | [Link](https://leetcode.com/problems/missing-number/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/10-missing-number.js?raw=true) | May 16, 2026 | - |
+| 75 | Sort Colors | Medium | [Link](https://leetcode.com/problems/sort-colors/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/12-sort-colors.js?raw=true) | May 18, 2026 | 1. It traverses the array with three pointers (low, mid, high), swapping 0s to the front and 2s to the back while processing until mid <= high.
+If it encounters 1, it simply moves mid forward, automatically placing all elements into their correct zones in one pass.
+2. Count  |
