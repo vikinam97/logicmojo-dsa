@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 10/145 problems  
+**Solved:** 11/145 problems  
 **Last Updated:** May 18, 2026
 
 ## Solutions
@@ -25,3 +25,4 @@
 | 75 | Sort Colors | Medium | [Link](https://leetcode.com/problems/sort-colors/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/12-sort-colors.js?raw=true) | May 18, 2026 | 1. It traverses the array with three pointers (low, mid, high), swapping 0s to the front and 2s to the back while processing until mid <= high.
 If it encounters 1, it simply moves mid forward, automatically placing all elements into their correct zones in one pass.
 2. Count  |
+| 229 | Majority Element II | Medium | [Link](https://leetcode.com/problems/majority-element-ii/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/15-majority-element-ii.py?raw=true) | May 18, 2026 | - |
