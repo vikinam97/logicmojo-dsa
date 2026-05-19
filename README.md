@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 11/145 problems  
-**Last Updated:** May 18, 2026
+**Solved:** 12/145 problems  
+**Last Updated:** May 19, 2026
 
 ## Solutions
 
@@ -26,3 +26,4 @@
 If it encounters 1, it simply moves mid forward, automatically placing all elements into their correct zones in one pass.
 2. Count  |
 | 229 | Majority Element II | Medium | [Link](https://leetcode.com/problems/majority-element-ii/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/15-majority-element-ii.py?raw=true) | May 18, 2026 | - |
+| 169 | Majority Element | Easy | [Link](https://leetcode.com/problems/majority-element/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/14-majority-element.py?raw=true) | May 19, 2026 | - |
