@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 17/145 problems  
+**Solved:** 18/145 problems  
 **Last Updated:** May 21, 2026
 
 ## Solutions
@@ -27,3 +27,4 @@
 | 443 | String Compression | Medium | [Link](https://leetcode.com/problems/string-compression/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/21-string-compression.py?raw=true) | May 21, 2026 | It uses a two-pointer technique to identify consecutive character groups, where i marks the start and j expands to find the end of the group.Each group is then compressed in-place by writing the character followed by its frequency (if greater than 1) using a write pointer (count). |
 | 392 | Is Subsequence | Easy | [Link](https://leetcode.com/problems/is-subsequence/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/22-is-subsequence.py?raw=true) | May 21, 2026 | two pointer |
 | 155 | Min Stack | Medium | [Link](https://leetcode.com/problems/min-stack/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/26-min-stack.py?raw=true) | May 21, 2026 | - |
+| 151 | Reverse Words in a String | Medium | [Link](https://leetcode.com/problems/reverse-words-in-a-string/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/20-reverse-words-in-a-string.py?raw=true) | May 21, 2026 | - |
