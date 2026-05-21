@@ -2,7 +2,7 @@
 
 ## Progress
 **Solved:** 12/145 problems  
-**Last Updated:** May 19, 2026
+**Last Updated:** May 21, 2026
 
 ## Solutions
 
@@ -27,3 +27,4 @@ If it encounters 1, it simply moves mid forward, automatically placing all eleme
 2. Count  |
 | 169 | Majority Element | Easy | [Link](https://leetcode.com/problems/majority-element/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/14-majority-element.py?raw=true) | May 19, 2026 | - |
 | 229 | Majority Element II | Medium | [Link](https://leetcode.com/problems/majority-element-ii/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/15-majority-element-ii.py?raw=true) | May 19, 2026 | - |
+| 128 | Longest Consecutive Sequence | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/16-longest-consecutive-sequence.py?raw=true) | May 21, 2026 | Uses a hash set for O(1) lookups, then expands left and right from each unvisited number to count the full consecutive sequence. |
