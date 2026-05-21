@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 12/145 problems  
+**Solved:** 14/145 problems  
 **Last Updated:** May 21, 2026
 
 ## Solutions
@@ -22,10 +22,9 @@
 # sc: O(N * K)
 # Vignesh |
 | 268 | Missing Number | Easy | [Link](https://leetcode.com/problems/missing-number/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/10-missing-number.js?raw=true) | May 16, 2026 | - |
-| 75 | Sort Colors | Medium | [Link](https://leetcode.com/problems/sort-colors/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/12-sort-colors.js?raw=true) | May 18, 2026 | 1. It traverses the array with three pointers (low, mid, high), swapping 0s to the front and 2s to the back while processing until mid <= high.
-If it encounters 1, it simply moves mid forward, automatically placing all elements into their correct zones in one pass.
-2. Count  |
 | 169 | Majority Element | Easy | [Link](https://leetcode.com/problems/majority-element/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/14-majority-element.py?raw=true) | May 19, 2026 | - |
 | 229 | Majority Element II | Medium | [Link](https://leetcode.com/problems/majority-element-ii/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/15-majority-element-ii.py?raw=true) | May 19, 2026 | - |
 | 128 | Longest Consecutive Sequence | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/16-longest-consecutive-sequence.py?raw=true) | May 21, 2026 | Uses a hash set for O(1) lookups, then expands left and right from each unvisited number to count the full consecutive sequence. |
 | 14 | Longest Common Prefix | Easy | [Link](https://leetcode.com/problems/longest-common-prefix/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/17-longest-common-prefix.py?raw=true) | May 21, 2026 | - |
+| 75 | Sort Colors | Medium | [Link](https://leetcode.com/problems/sort-colors/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/12-sort-colors.py?raw=true) | May 21, 2026 | 1. It traverses the array with three pointers (low, mid, high), swapping 0s to the front and 2s to the back while processing until mid <= high.
+If it encounters 1, it simply moves mid forward, automatically placing all elements into their correct zones in one pass.2. Count  |
