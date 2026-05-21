@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 14/145 problems  
+**Solved:** 15/145 problems  
 **Last Updated:** May 21, 2026
 
 ## Solutions
@@ -24,3 +24,4 @@
 | 75 | Sort Colors | Medium | [Link](https://leetcode.com/problems/sort-colors/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/12-sort-colors.py?raw=true) | May 21, 2026 | 1. It traverses the array with three pointers (low, mid, high), swapping 0s to the front and 2s to the back while processing until mid <= high.If it encounters 1, it simply moves mid forward, automatically placing all elements into their correct zones in one pass.2. Count  |
 | 49 | Group Anagrams | Medium | [Link](https://leetcode.com/problems/group-anagrams/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/9-group-anagrams.py?raw=true) | May 21, 2026 | - |
 | 3 | Longest Substring Without Repeating Characters | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/18-longest-substring-without-repeating-characters.py?raw=true) | May 21, 2026 | - |
+| 443 | String Compression | Medium | [Link](https://leetcode.com/problems/string-compression/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/21-string-compression.py?raw=true) | May 21, 2026 | It uses a two-pointer technique to identify consecutive character groups, where i marks the start and j expands to find the end of the group.Each group is then compressed in-place by writing the character followed by its frequency (if greater than 1) using a write pointer (count). |
