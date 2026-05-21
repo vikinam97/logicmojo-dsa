@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 15/145 problems  
+**Solved:** 16/145 problems  
 **Last Updated:** May 21, 2026
 
 ## Solutions
@@ -25,3 +25,4 @@
 | 49 | Group Anagrams | Medium | [Link](https://leetcode.com/problems/group-anagrams/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/9-group-anagrams.py?raw=true) | May 21, 2026 | - |
 | 3 | Longest Substring Without Repeating Characters | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/18-longest-substring-without-repeating-characters.py?raw=true) | May 21, 2026 | - |
 | 443 | String Compression | Medium | [Link](https://leetcode.com/problems/string-compression/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/21-string-compression.py?raw=true) | May 21, 2026 | It uses a two-pointer technique to identify consecutive character groups, where i marks the start and j expands to find the end of the group.Each group is then compressed in-place by writing the character followed by its frequency (if greater than 1) using a write pointer (count). |
+| 392 | Is Subsequence | Easy | [Link](https://leetcode.com/problems/is-subsequence/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/22-is-subsequence.py?raw=true) | May 21, 2026 | two pointer |
