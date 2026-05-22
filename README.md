@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 18/145 problems  
-**Last Updated:** May 21, 2026
+**Solved:** 19/146 problems  
+**Last Updated:** May 22, 2026
 
 ## Solutions
 
@@ -28,3 +28,4 @@
 | 392 | Is Subsequence | Easy | [Link](https://leetcode.com/problems/is-subsequence/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/22-is-subsequence.py?raw=true) | May 21, 2026 | two pointer |
 | 155 | Min Stack | Medium | [Link](https://leetcode.com/problems/min-stack/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/26-min-stack.py?raw=true) | May 21, 2026 | - |
 | 151 | Reverse Words in a String | Medium | [Link](https://leetcode.com/problems/reverse-words-in-a-string/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/20-reverse-words-in-a-string.py?raw=true) | May 21, 2026 | - |
+| 33 | Search in Rotated Sorted Array | Medium | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Binary%20Search/137-search-in-rotated-sorted-array.js?raw=true) | May 22, 2026 | find pivot and the search element, finding pivot compare with last element of window and decide left or right |
