@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 19/146 problems  
-**Last Updated:** May 22, 2026
+**Solved:** 20/146 problems  
+**Last Updated:** May 31, 2026
 
 ## Solutions
 
@@ -29,3 +29,4 @@
 | 155 | Min Stack | Medium | [Link](https://leetcode.com/problems/min-stack/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/26-min-stack.py?raw=true) | May 21, 2026 | - |
 | 151 | Reverse Words in a String | Medium | [Link](https://leetcode.com/problems/reverse-words-in-a-string/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/20-reverse-words-in-a-string.py?raw=true) | May 21, 2026 | - |
 | 33 | Search in Rotated Sorted Array | Medium | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Binary%20Search/137-search-in-rotated-sorted-array.js?raw=true) | May 22, 2026 | find pivot and the search element, finding pivot compare with last element of window and decide left or right |
+| 347 | Top K Frequent Elements | Medium | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/11-top-k-frequent-elements.py?raw=true) | May 31, 2026 | 1-using heap - nlogk, k. 2- using frequency list - n, n |
