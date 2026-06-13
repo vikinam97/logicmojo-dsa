@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 21/146 problems  
+**Solved:** 22/146 problems  
 **Last Updated:** Jun 13, 2026
 
 ## Solutions
@@ -31,3 +31,4 @@
 | 33 | Search in Rotated Sorted Array | Medium | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Binary%20Search/137-search-in-rotated-sorted-array.js?raw=true) | May 22, 2026 | find pivot and the search element, finding pivot compare with last element of window and decide left or right |
 | 347 | Top K Frequent Elements | Medium | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/11-top-k-frequent-elements.py?raw=true) | May 31, 2026 | 1-using heap - nlogk, k. 2- using frequency list - n, n |
 | 54 | Spiral Matrix | Medium | [Link](https://leetcode.com/problems/spiral-matrix/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/13-spiral-matrix.py?raw=true) | Jun 13, 2026 | - |
+| 853 | Car Fleet | Medium | [Link](https://leetcode.com/problems/car-fleet/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/30-car-fleet.py?raw=true) | Jun 13, 2026 | sort and stack the group by their arrival.. from last to first |
