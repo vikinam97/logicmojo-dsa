@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 24/146 problems  
+**Solved:** 25/146 problems  
 **Last Updated:** Jun 18, 2026
 
 ## Solutions
@@ -34,3 +34,4 @@
 | 853 | Car Fleet | Medium | [Link](https://leetcode.com/problems/car-fleet/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/30-car-fleet.py?raw=true) | Jun 13, 2026 | sort and stack the group by their arrival.. from last to first |
 | 53 | Maximum Subarray | Medium | [Link](https://leetcode.com/problems/maximum-subarray/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/19-maximum-subarray.py?raw=true) | Jun 18, 2026 | if sum in window goes <0 then reset and ignore the window |
 | 567 | Permutation in String | Medium | [Link](https://leetcode.com/problems/permutation-in-string/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/25-permutation-in-string.py?raw=true) | Jun 18, 2026 | window, check while adding if it in s1 and lenth of window  |
+| 739 | Daily Temperatures | Medium | [Link](https://leetcode.com/problems/daily-temperatures/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/29-daily-temperatures.py?raw=true) | Jun 18, 2026 | monotonic stack - next greater element |
