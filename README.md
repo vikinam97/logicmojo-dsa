@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 26/146 problems  
-**Last Updated:** Jun 18, 2026
+**Solved:** 27/146 problems  
+**Last Updated:** Jun 20, 2026
 
 ## Solutions
 
@@ -36,3 +36,4 @@
 | 567 | Permutation in String | Medium | [Link](https://leetcode.com/problems/permutation-in-string/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/25-permutation-in-string.py?raw=true) | Jun 18, 2026 | window, check while adding if it in s1 and lenth of window  |
 | 739 | Daily Temperatures | Medium | [Link](https://leetcode.com/problems/daily-temperatures/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/29-daily-temperatures.py?raw=true) | Jun 18, 2026 | monotonic stack - next greater element |
 | 15 | 3Sum | Medium | [Link](https://leetcode.com/problems/3sum/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/24-3sum.py?raw=true) | Jun 18, 2026 | - |
+| 76 | Minimum Window Substring | Hard | [Link](https://leetcode.com/problems/minimum-window-substring/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/28-minimum-window-substring.py?raw=true) | Jun 20, 2026 | - |
