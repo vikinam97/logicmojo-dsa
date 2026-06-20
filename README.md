@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 27/146 problems  
+**Solved:** 28/146 problems  
 **Last Updated:** Jun 20, 2026
 
 ## Solutions
@@ -37,3 +37,4 @@
 | 739 | Daily Temperatures | Medium | [Link](https://leetcode.com/problems/daily-temperatures/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/29-daily-temperatures.py?raw=true) | Jun 18, 2026 | monotonic stack - next greater element |
 | 15 | 3Sum | Medium | [Link](https://leetcode.com/problems/3sum/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/24-3sum.py?raw=true) | Jun 18, 2026 | - |
 | 76 | Minimum Window Substring | Hard | [Link](https://leetcode.com/problems/minimum-window-substring/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/28-minimum-window-substring.py?raw=true) | Jun 20, 2026 | - |
+| 1679 | Max Number of K-Sum Pairs | Medium | [Link](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/23-max-number-of-k-sum-pairs.py?raw=true) | Jun 20, 2026 | hash to track freq, same as 2Sum |
