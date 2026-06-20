@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 28/146 problems  
+**Solved:** 29/146 problems  
 **Last Updated:** Jun 20, 2026
 
 ## Solutions
@@ -17,7 +17,6 @@
 | 283 | Move Zeroes | Easy | [Link](https://leetcode.com/problems/move-zeroes/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/8-move-zeroes.js?raw=true) | May 16, 2026 | - |
 | 268 | Missing Number | Easy | [Link](https://leetcode.com/problems/missing-number/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/10-missing-number.js?raw=true) | May 16, 2026 | - |
 | 169 | Majority Element | Easy | [Link](https://leetcode.com/problems/majority-element/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/14-majority-element.py?raw=true) | May 19, 2026 | - |
-| 229 | Majority Element II | Medium | [Link](https://leetcode.com/problems/majority-element-ii/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/15-majority-element-ii.py?raw=true) | May 19, 2026 | - |
 | 128 | Longest Consecutive Sequence | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/16-longest-consecutive-sequence.py?raw=true) | May 21, 2026 | Uses a hash set for O(1) lookups, then expands left and right from each unvisited number to count the full consecutive sequence. |
 | 14 | Longest Common Prefix | Easy | [Link](https://leetcode.com/problems/longest-common-prefix/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/17-longest-common-prefix.py?raw=true) | May 21, 2026 | - |
 | 189 | Rotate Array | Medium | [Link](https://leetcode.com/problems/rotate-array/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/7-rotate-array.py?raw=true) | May 21, 2026 | 1. A cyclic swap moves one element directly to its target position, picks up the displaced element, and repeats this process in a chain until a full loop (cycle) is completed.2. The reversal method rotates the array by flipping the entire sequence upside down, then flipping the first $k$ elements and the remaining elements back into their correct relative order. |
