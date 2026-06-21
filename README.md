@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 29/146 problems  
-**Last Updated:** Jun 20, 2026
+**Solved:** 30/147 problems  
+**Last Updated:** Jun 21, 2026
 
 ## Solutions
 
@@ -38,3 +38,4 @@
 | 76 | Minimum Window Substring | Hard | [Link](https://leetcode.com/problems/minimum-window-substring/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/28-minimum-window-substring.py?raw=true) | Jun 20, 2026 | - |
 | 1679 | Max Number of K-Sum Pairs | Medium | [Link](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/23-max-number-of-k-sum-pairs.py?raw=true) | Jun 20, 2026 | hash to track freq, same as 2Sum |
 | 239 | Sliding Window Maximum | Hard | [Link](https://leetcode.com/problems/sliding-window-maximum/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/27-sliding-window-maximum.py?raw=true) | Jun 20, 2026 | deque and monotonic decreasing queue,,,,maintain decreasing order and select 1st one |
+| 41 | First Missing Positive | Hard | [Link](https://leetcode.com/problems/first-missing-positive/description/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/1782023777840-first-missing-positive.py?raw=true) | Jun 21, 2026 | 1st remove -ve and 0 by len(nums) then do marking. since [1..n] will be the missing number |
