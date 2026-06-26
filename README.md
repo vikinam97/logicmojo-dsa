@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 34/147 problems  
+**Solved:** 35/147 problems  
 **Last Updated:** Jun 26, 2026
 
 ## Solutions
@@ -43,3 +43,4 @@
 | 206 | Reverse Linked List | Easy | [Link](https://leetcode.com/problems/reverse-linked-list/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Linked%20List/35-reverse-linked-list.py?raw=true) | Jun 26, 2026 | - |
 | 21 | Merge Two Sorted Lists | Easy | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Linked%20List/36-merge-two-sorted-lists.py?raw=true) | Jun 26, 2026 | - |
 | 143 | Reorder List | Medium | [Link](https://leetcode.com/problems/reorder-list/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Linked%20List/37-reorder-list.py?raw=true) | Jun 26, 2026 | - |
+| 287 | Find the Duplicate Number | Medium | [Link](https://leetcode.com/problems/find-the-duplicate-number/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Linked%20List/40-find-the-duplicate-number.py?raw=true) | Jun 26, 2026 | use same array as hash by inverting values of that index |
