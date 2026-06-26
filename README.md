@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 31/147 problems  
+**Solved:** 32/147 problems  
 **Last Updated:** Jun 26, 2026
 
 ## Solutions
@@ -40,3 +40,4 @@
 | 239 | Sliding Window Maximum | Hard | [Link](https://leetcode.com/problems/sliding-window-maximum/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/27-sliding-window-maximum.py?raw=true) | Jun 20, 2026 | deque and monotonic decreasing queue,,,,maintain decreasing order and select 1st one |
 | 41 | First Missing Positive | Hard | [Link](https://leetcode.com/problems/first-missing-positive/description/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/1782023777840-first-missing-positive.py?raw=true) | Jun 21, 2026 | 1st remove -ve and 0 by len(nums) then do marking. since [1..n] will be the missing number |
 | 229 | Majority Element II | Medium | [Link](https://leetcode.com/problems/majority-element-ii/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/15-majority-element-ii.js?raw=true) | Jun 26, 2026 | boyer moore same logic, just handle 2 majotiry. make sure only both are not same assigned |
+| 206 | Reverse Linked List | Easy | [Link](https://leetcode.com/problems/reverse-linked-list/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Linked%20List/35-reverse-linked-list.py?raw=true) | Jun 26, 2026 | - |
