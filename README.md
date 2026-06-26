@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 33/147 problems  
+**Solved:** 34/147 problems  
 **Last Updated:** Jun 26, 2026
 
 ## Solutions
@@ -42,3 +42,4 @@
 | 229 | Majority Element II | Medium | [Link](https://leetcode.com/problems/majority-element-ii/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Array/15-majority-element-ii.js?raw=true) | Jun 26, 2026 | boyer moore same logic, just handle 2 majotiry. make sure only both are not same assigned |
 | 206 | Reverse Linked List | Easy | [Link](https://leetcode.com/problems/reverse-linked-list/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Linked%20List/35-reverse-linked-list.py?raw=true) | Jun 26, 2026 | - |
 | 21 | Merge Two Sorted Lists | Easy | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Linked%20List/36-merge-two-sorted-lists.py?raw=true) | Jun 26, 2026 | - |
+| 143 | Reorder List | Medium | [Link](https://leetcode.com/problems/reorder-list/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Linked%20List/37-reorder-list.py?raw=true) | Jun 26, 2026 | - |
