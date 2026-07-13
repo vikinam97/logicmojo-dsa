@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 36/147 problems  
-**Last Updated:** Jul 12, 2026
+**Solved:** 38/147 problems  
+**Last Updated:** Jul 13, 2026
 
 ## Solutions
 
@@ -46,3 +46,4 @@
 | 287 | Find the Duplicate Number | Medium | [Link](https://leetcode.com/problems/find-the-duplicate-number/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Linked%20List/40-find-the-duplicate-number.py?raw=true) | Jun 26, 2026 | use same array as hash by inverting values of that index |
 | 78 | Subsets | Medium | [Link](https://leetcode.com/problems/subsets/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Recursion/47-subsets.py?raw=true) | Jul 12, 2026 | - |
 | 494 | Target Sum | Medium | [Link](https://leetcode.com/problems/target-sum/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Recursion/49-target-sum.py?raw=true) | Jul 12, 2026 | - |
+| 37 | Sudoku Solver | Hard | [Link](https://leetcode.com/problems/sudoku-solver/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Recursion/55-sudoku-solver.py?raw=true) | Jul 13, 2026 | Time O(9^81) and Space O(1) |
