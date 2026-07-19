@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 38/147 problems  
-**Last Updated:** Jul 13, 2026
+**Solved:** 39/147 problems  
+**Last Updated:** Jul 19, 2026
 
 ## Solutions
 
@@ -47,3 +47,4 @@
 | 78 | Subsets | Medium | [Link](https://leetcode.com/problems/subsets/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Recursion/47-subsets.py?raw=true) | Jul 12, 2026 | - |
 | 494 | Target Sum | Medium | [Link](https://leetcode.com/problems/target-sum/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Recursion/49-target-sum.py?raw=true) | Jul 12, 2026 | - |
 | 37 | Sudoku Solver | Hard | [Link](https://leetcode.com/problems/sudoku-solver/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Recursion/55-sudoku-solver.py?raw=true) | Jul 13, 2026 | Time O(9^81) and Space O(1) |
+| 22 | Generate Parentheses | Medium | [Link](https://leetcode.com/problems/generate-parentheses/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Recursion/58-generate-parentheses.py?raw=true) | Jul 19, 2026 | - |
