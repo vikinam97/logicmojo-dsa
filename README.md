@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 41/147 problems  
+**Solved:** 42/147 problems  
 **Last Updated:** Jul 25, 2026
 
 ## Solutions
@@ -50,3 +50,4 @@
 | 22 | Generate Parentheses | Medium | [Link](https://leetcode.com/problems/generate-parentheses/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Recursion/58-generate-parentheses.py?raw=true) | Jul 19, 2026 | - |
 | 39 | Combination Sum - Infinite selection | Medium | [Link](https://leetcode.com/problems/combination-sum/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Recursion/51-combination-sum-infinite-selection.js?raw=true) | Jul 25, 2026 | - |
 | 70 | Climbing Stairs | Easy | [Link](https://leetcode.com/problems/climbing-stairs/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Recursion/56-climbing-stairs.py?raw=true) | Jul 25, 2026 | - |
+| 62 | Unique Paths | Medium | [Link](https://leetcode.com/problems/unique-paths/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Recursion/57-unique-paths.py?raw=true) | Jul 25, 2026 | - |
