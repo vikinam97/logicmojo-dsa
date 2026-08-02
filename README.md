@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 47/147 problems  
+**Solved:** 48/147 problems  
 **Last Updated:** Aug 2, 2026
 
 ## Solutions
@@ -55,3 +55,4 @@
 | 102 | Binary Tree Level Order Traversal | Medium | [Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/61-binary-tree-level-order-traversal.py?raw=true) | Aug 2, 2026 | - |
 | 144 | Binary Tree Preorder Traversal | Easy | [Link](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/62-binary-tree-preorder-traversal.py?raw=true) | Aug 2, 2026 | - |
 | 450 | Delete Node in a BST | Medium | [Link](https://leetcode.com/problems/delete-node-in-a-bst/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/63-delete-node-in-a-bst.py?raw=true) | Aug 2, 2026 | - |
+| 226 | Invert Binary Tree | Easy | [Link](https://leetcode.com/problems/invert-binary-tree/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/64-invert-binary-tree.py?raw=true) | Aug 2, 2026 | - |
