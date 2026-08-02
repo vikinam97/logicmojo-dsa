@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 45/147 problems  
+**Solved:** 46/147 problems  
 **Last Updated:** Aug 2, 2026
 
 ## Solutions
@@ -53,3 +53,4 @@
 | 62 | Unique Paths | Medium | [Link](https://leetcode.com/problems/unique-paths/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Recursion/57-unique-paths.py?raw=true) | Jul 25, 2026 | - |
 | 52 | N-Queens II | Hard | [Link](https://leetcode.com/problems/n-queens-ii/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Recursion/54-n-queens-ii.js?raw=true) | Jul 31, 2026 | - |
 | 102 | Binary Tree Level Order Traversal | Medium | [Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/61-binary-tree-level-order-traversal.py?raw=true) | Aug 2, 2026 | - |
+| 144 | Binary Tree Preorder Traversal | Easy | [Link](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/62-binary-tree-preorder-traversal.py?raw=true) | Aug 2, 2026 | - |
