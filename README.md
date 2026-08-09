@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 49/147 problems  
-**Last Updated:** Aug 2, 2026
+**Solved:** 50/147 problems  
+**Last Updated:** Aug 9, 2026
 
 ## Solutions
 
@@ -57,3 +57,4 @@
 | 450 | Delete Node in a BST | Medium | [Link](https://leetcode.com/problems/delete-node-in-a-bst/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/63-delete-node-in-a-bst.py?raw=true) | Aug 2, 2026 | - |
 | 226 | Invert Binary Tree | Easy | [Link](https://leetcode.com/problems/invert-binary-tree/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/64-invert-binary-tree.py?raw=true) | Aug 2, 2026 | - |
 | 104 | Maximum Depth of Binary Tree | Easy | [Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/65-maximum-depth-of-binary-tree.py?raw=true) | Aug 2, 2026 | - |
+| 543 | Diameter of Binary Tree | Easy | [Link](https://leetcode.com/problems/diameter-of-binary-tree/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/66-diameter-of-binary-tree.js?raw=true) | Aug 9, 2026 | - |
