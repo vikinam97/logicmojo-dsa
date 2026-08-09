@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 50/147 problems  
+**Solved:** 52/147 problems  
 **Last Updated:** Aug 9, 2026
 
 ## Solutions
@@ -59,3 +59,4 @@
 | 104 | Maximum Depth of Binary Tree | Easy | [Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/65-maximum-depth-of-binary-tree.py?raw=true) | Aug 2, 2026 | - |
 | 543 | Diameter of Binary Tree | Easy | [Link](https://leetcode.com/problems/diameter-of-binary-tree/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/66-diameter-of-binary-tree.js?raw=true) | Aug 9, 2026 | - |
 | 100 | Same Tree | Easy | [Link](https://leetcode.com/problems/same-tree/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/67-same-tree.js?raw=true) | Aug 9, 2026 | - |
+| 572 | Subtree of Another Tree | Easy | [Link](https://leetcode.com/problems/subtree-of-another-tree/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/68-subtree-of-another-tree.js?raw=true) | Aug 9, 2026 | - |
