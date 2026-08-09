@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 52/147 problems  
+**Solved:** 53/147 problems  
 **Last Updated:** Aug 9, 2026
 
 ## Solutions
@@ -60,3 +60,4 @@
 | 543 | Diameter of Binary Tree | Easy | [Link](https://leetcode.com/problems/diameter-of-binary-tree/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/66-diameter-of-binary-tree.js?raw=true) | Aug 9, 2026 | - |
 | 100 | Same Tree | Easy | [Link](https://leetcode.com/problems/same-tree/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/67-same-tree.js?raw=true) | Aug 9, 2026 | - |
 | 572 | Subtree of Another Tree | Easy | [Link](https://leetcode.com/problems/subtree-of-another-tree/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/68-subtree-of-another-tree.js?raw=true) | Aug 9, 2026 | - |
+| 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/69-lowest-common-ancestor-of-a-binary-search-tree.js?raw=true) | Aug 9, 2026 | - |
