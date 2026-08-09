@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 56/147 problems  
+**Solved:** 57/147 problems  
 **Last Updated:** Aug 9, 2026
 
 ## Solutions
@@ -64,3 +64,4 @@
 | 236 | Lowest Common Ancestor of a Binary Tree | Medium | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/70-lowest-common-ancestor-of-a-binary-tree.js?raw=true) | Aug 9, 2026 | - |
 | 103 | Binary Tree Zigzag Level Order Traversal | Medium | [Link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/71-binary-tree-zigzag-level-order-traversal.js?raw=true) | Aug 9, 2026 | - |
 | 987 | Vertical Order Traversal of a Binary Tree | Hard | [Link](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/73-vertical-order-traversal-of-a-binary-tree.js?raw=true) | Aug 9, 2026 | - |
+| 0 | Top View of BTREE | Medium | - | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/72-top-view-of-btree.js?raw=true) | Aug 9, 2026 | - |
