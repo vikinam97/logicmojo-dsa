@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 61/147 problems  
+**Solved:** 62/147 problems  
 **Last Updated:** Sep 13, 2026
 
 ## Solutions
@@ -68,3 +68,4 @@
 | 142 | Linked List Cycle II | Medium | [Link](https://leetcode.com/problems/linked-list-cycle-ii/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Linked%20List/39-linked-list-cycle-ii.js?raw=true) | Sep 13, 2026 | - |
 | 146 | LRU Cache | Medium | [Link](https://leetcode.com/problems/lru-cache/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Linked%20List/41-lru-cache.js?raw=true) | Sep 13, 2026 | - |
 | 83 | Remove Duplicates from Sorted List | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Linked%20List/42-remove-duplicates-from-sorted-list.js?raw=true) | Sep 13, 2026 | - |
+| 160 | Intersection of Two Linked Lists | Easy | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Linked%20List/43-intersection-of-two-linked-lists.js?raw=true) | Sep 13, 2026 | - |
