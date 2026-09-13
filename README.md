@@ -66,3 +66,4 @@
 | 987 | Vertical Order Traversal of a Binary Tree | Hard | [Link](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/73-vertical-order-traversal-of-a-binary-tree.js?raw=true) | Aug 9, 2026 | - |
 | 0 | Top View of BTREE | Medium | - | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Trees/72-top-view-of-btree.js?raw=true) | Aug 9, 2026 | - |
 | 142 | Linked List Cycle II | Medium | [Link](https://leetcode.com/problems/linked-list-cycle-ii/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Linked%20List/39-linked-list-cycle-ii.js?raw=true) | Sep 13, 2026 | - |
+| 146 | LRU Cache | Medium | [Link](https://leetcode.com/problems/lru-cache/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Linked%20List/41-lru-cache.js?raw=true) | Sep 13, 2026 | - |
