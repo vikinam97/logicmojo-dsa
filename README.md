@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 68/147 problems  
+**Solved:** 69/147 problems  
 **Last Updated:** Sep 19, 2026
 
 ## Solutions
@@ -73,3 +73,4 @@
 | 207 | Course Schedule | Medium | [Link](https://leetcode.com/problems/course-schedule/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Graphs/84-course-schedule.py?raw=true) | Sep 19, 2026 | - |
 | 210 | Course Schedule II | Medium | [Link](https://leetcode.com/problems/course-schedule-ii/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Graphs/85-course-schedule-ii.py?raw=true) | Sep 19, 2026 | - |
 | 329 | Longest Increasing Path in a Matrix | Hard | [Link](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Graphs/86-longest-increasing-path-in-a-matrix.py?raw=true) | Sep 19, 2026 | - |
+| 787 | Cheapest Flights Within K Stops | Medium | [Link](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Graphs/91-cheapest-flights-within-k-stops.py?raw=true) | Sep 19, 2026 | - |
