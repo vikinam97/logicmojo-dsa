@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 67/147 problems  
+**Solved:** 68/147 problems  
 **Last Updated:** Sep 19, 2026
 
 ## Solutions
@@ -72,3 +72,4 @@
 | 743 | Network Delay Time | Medium | [Link](https://leetcode.com/problems/network-delay-time/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Graphs/89-network-delay-time.js?raw=true) | Sep 13, 2026 | - |
 | 207 | Course Schedule | Medium | [Link](https://leetcode.com/problems/course-schedule/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Graphs/84-course-schedule.py?raw=true) | Sep 19, 2026 | - |
 | 210 | Course Schedule II | Medium | [Link](https://leetcode.com/problems/course-schedule-ii/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Graphs/85-course-schedule-ii.py?raw=true) | Sep 19, 2026 | - |
+| 329 | Longest Increasing Path in a Matrix | Hard | [Link](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Graphs/86-longest-increasing-path-in-a-matrix.py?raw=true) | Sep 19, 2026 | - |
