@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 65/147 problems  
-**Last Updated:** Sep 13, 2026
+**Solved:** 66/147 problems  
+**Last Updated:** Sep 19, 2026
 
 ## Solutions
 
@@ -70,3 +70,4 @@
 | 83 | Remove Duplicates from Sorted List | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Linked%20List/42-remove-duplicates-from-sorted-list.js?raw=true) | Sep 13, 2026 | - |
 | 160 | Intersection of Two Linked Lists | Easy | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Linked%20List/43-intersection-of-two-linked-lists.js?raw=true) | Sep 13, 2026 | - |
 | 743 | Network Delay Time | Medium | [Link](https://leetcode.com/problems/network-delay-time/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Graphs/89-network-delay-time.js?raw=true) | Sep 13, 2026 | - |
+| 207 | Course Schedule | Medium | [Link](https://leetcode.com/problems/course-schedule/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Graphs/84-course-schedule.py?raw=true) | Sep 19, 2026 | - |
