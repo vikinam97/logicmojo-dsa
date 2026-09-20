@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 70/147 problems  
+**Solved:** 71/147 problems  
 **Last Updated:** Sep 20, 2026
 
 ## Solutions
@@ -75,3 +75,4 @@
 | 329 | Longest Increasing Path in a Matrix | Hard | [Link](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Graphs/86-longest-increasing-path-in-a-matrix.py?raw=true) | Sep 19, 2026 | - |
 | 787 | Cheapest Flights Within K Stops | Medium | [Link](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Graphs/91-cheapest-flights-within-k-stops.py?raw=true) | Sep 19, 2026 | - |
 | 63 | Unique Paths II | Medium | [Link](https://leetcode.com/problems/unique-paths-ii/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Dynamic%20Programming/109-unique-paths-ii.py?raw=true) | Sep 20, 2026 | - |
+| 1462 | Course Schedule IV | Medium | [Link](https://leetcode.com/problems/course-schedule-iv/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Graphs/95-course-schedule-iv.py?raw=true) | Sep 20, 2026 | 1. Kahn + req set for each node 2. floyd warshal reachability |
