@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 80/147 problems  
+**Solved:** 81/147 problems  
 **Last Updated:** Sep 26, 2026
 
 ## Solutions
@@ -80,3 +80,4 @@
 | 1584 | Min Cost to Connect All Points | Medium | [Link](https://leetcode.com/problems/min-cost-to-connect-all-points/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Graphs/99-min-cost-to-connect-all-points.py?raw=true) | Sep 20, 2026 | - |
 | 1091 | Shortest Path in Binary Matrix | Medium | [Link](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Graphs/100-shortest-path-in-binary-matrix.py?raw=true) | Sep 20, 2026 | - |
 | 212 | Word Search II | Hard | [Link](https://leetcode.com/problems/word-search-ii/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Tries/105-word-search-ii.js?raw=true) | Sep 26, 2026 | - |
+| 208 | Implement Trie (Prefix Tree) | Medium | [Link](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Tries/102-implement-trie-prefix-tree.js?raw=true) | Sep 26, 2026 | - |
