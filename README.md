@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 78/147 problems  
-**Last Updated:** Sep 20, 2026
+**Solved:** 80/147 problems  
+**Last Updated:** Sep 26, 2026
 
 ## Solutions
 
@@ -79,3 +79,4 @@
 | 1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance - Floyd Warshall Algorithm | Medium | [Link](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Graphs/97-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance-floyd-warshall-algorithm.py?raw=true) | Sep 20, 2026 | - |
 | 1584 | Min Cost to Connect All Points | Medium | [Link](https://leetcode.com/problems/min-cost-to-connect-all-points/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Graphs/99-min-cost-to-connect-all-points.py?raw=true) | Sep 20, 2026 | - |
 | 1091 | Shortest Path in Binary Matrix | Medium | [Link](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Graphs/100-shortest-path-in-binary-matrix.py?raw=true) | Sep 20, 2026 | - |
+| 212 | Word Search II | Hard | [Link](https://leetcode.com/problems/word-search-ii/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Tries/105-word-search-ii.js?raw=true) | Sep 26, 2026 | - |
