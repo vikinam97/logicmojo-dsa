@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 84/147 problems  
-**Last Updated:** Sep 26, 2026
+**Solved:** 85/147 problems  
+**Last Updated:** Oct 11, 2026
 
 ## Solutions
 
@@ -83,3 +83,4 @@
 | 208 | Implement Trie (Prefix Tree) | Medium | [Link](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Tries/102-implement-trie-prefix-tree.js?raw=true) | Sep 26, 2026 | - |
 | 494 | Target Sum Trolly | Medium | [Link](https://leetcode.com/problems/target-sum/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Dynamic%20Programming/111-target-sum-trolly.py?raw=true) | Sep 26, 2026 | - |
 | 198 | House Robber | Medium | [Link](https://leetcode.com/problems/house-robber/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Dynamic%20Programming/116-house-robber.py?raw=true) | Sep 26, 2026 | - |
+| 0 | KnapSack01 | Medium | - | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Dynamic%20Programming/119-knapsack01.py?raw=true) | Oct 11, 2026 | - |
