@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 87/147 problems  
+**Solved:** 88/147 problems  
 **Last Updated:** Oct 11, 2026
 
 ## Solutions
@@ -86,3 +86,4 @@
 | 0 | KnapSack01 | Medium | [Link](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Dynamic%20Programming/119-knapsack01.py?raw=true) | Oct 11, 2026 | - |
 | 64 | Minimum Path Sum | Medium | [Link](https://leetcode.com/problems/minimum-path-sum/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Dynamic%20Programming/118-minimum-path-sum.py?raw=true) | Oct 11, 2026 | - |
 | 121 | Best Time to Buy and Sell Stock | Easy | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Dynamic%20Programming/121-best-time-to-buy-and-sell-stock.py?raw=true) | Oct 11, 2026 | - |
+| 55 | Jump Game | Medium | [Link](https://leetcode.com/problems/jump-game/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Dynamic%20Programming/126-jump-game.py?raw=true) | Oct 11, 2026 | - |
