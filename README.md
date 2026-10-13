@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 88/147 problems  
-**Last Updated:** Oct 11, 2026
+**Solved:** 89/147 problems  
+**Last Updated:** Oct 13, 2026
 
 ## Solutions
 
@@ -87,3 +87,4 @@
 | 64 | Minimum Path Sum | Medium | [Link](https://leetcode.com/problems/minimum-path-sum/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Dynamic%20Programming/118-minimum-path-sum.py?raw=true) | Oct 11, 2026 | - |
 | 121 | Best Time to Buy and Sell Stock | Easy | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Dynamic%20Programming/121-best-time-to-buy-and-sell-stock.py?raw=true) | Oct 11, 2026 | - |
 | 55 | Jump Game | Medium | [Link](https://leetcode.com/problems/jump-game/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Dynamic%20Programming/126-jump-game.py?raw=true) | Oct 11, 2026 | - |
+| 5 | Longest Palindromic Substring | Medium | [Link](https://leetcode.com/problems/longest-palindromic-substring/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Dynamic%20Programming/129-longest-palindromic-substring.py?raw=true) | Oct 13, 2026 | - |
