@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 93/147 problems  
+**Solved:** 94/147 problems  
 **Last Updated:** Oct 24, 2026
 
 ## Solutions
@@ -90,3 +90,4 @@
 | 5 | Longest Palindromic Substring | Medium | [Link](https://leetcode.com/problems/longest-palindromic-substring/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Dynamic%20Programming/129-longest-palindromic-substring.py?raw=true) | Oct 13, 2026 | - |
 | 0 | N Meeting room | Medium | [Link](https://leetcode.com/problems/meeting-rooms-ii/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Greedy/135-n-meeting-room.py?raw=true) | Oct 17, 2026 | - |
 | 860 | Lemonade Change | Easy | [Link](https://leetcode.com/problems/lemonade-change/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Greedy/134-lemonade-change.py?raw=true) | Oct 24, 2026 | - |
+| 560 | Subarray Sum Equals K | Medium | [Link](https://leetcode.com/problems/subarray-sum-equals-k/) | [Code](https://raw.githubusercontent.com/vikinam97/logicmojo-dsa/main/solutions/Dynamic%20Programming/131-subarray-sum-equals-k.py?raw=true) | Oct 24, 2026 | - |
